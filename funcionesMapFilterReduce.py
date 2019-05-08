@@ -1,6 +1,6 @@
 from functools import reduce
 
-lista = [ 1, 2, 3, 4 ]
+lista = [ 1, 3, -1, 15, 9 ]
 
 # Función map permite ejecutar una función para cada uno de los componentes de la lista
 # devolviendo la nueva lista
