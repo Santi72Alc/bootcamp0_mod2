@@ -5,7 +5,7 @@ def cuandrado( x ):
     return x*x
 
 def cubo( x ):
-    return x*x*x
+    return x**3
 
 def sumaTodo( num, funcion ):
     suma = 0
